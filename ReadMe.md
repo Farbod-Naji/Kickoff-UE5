@@ -5,7 +5,7 @@ A small Unreal Engine prototype focused on building a basic football match and l
 
 The goal of this project was to understand authoritative server architecture, RPC flow, and gameplay-state synchronization.
 
-![Gameplay Screenshot](Images/Kickoff.png)
+![Gameplay Screenshot](Images/Kickoff_2560.webp)
 
 ## Core Gameplay
 

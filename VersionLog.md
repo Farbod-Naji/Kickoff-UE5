@@ -57,3 +57,7 @@ _Initial Playable Football Prototype with Network Replication_
 ----
 
 # Dev Log (unreleased changes)
+
+## V1.0.0-dev.1
+_2026-04-28_
+- optimized images by reducing resolution and converting to WebP for faster load times
